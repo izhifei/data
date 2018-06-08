@@ -1,13 +1,59 @@
-
-[
-{"id":"1","name":"1app","image":"https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256c.jpg","content":"detail","jumpPacke":"com.zf.snake.prank"},
-{"id":"2","name":"app","image":"https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256b.jpg","content":"detail","jumpPacke":"com.zf.butterfly.prank"},
-{"id":"3","name":"app","image":"https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256b.jpg","content":"detail","jumpPacke":"com.zf.butterfly.prank"},
-{"id":"4","name":"app","image":"https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256b.jpg","content":"detail","jumpPacke":"com.zf.butterfly.prank"},
-{"id":"5","name":"app","image":"https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256b.jpg","content":"detail","jumpPacke":"com.zf.butterfly.prank"},
-{"id":"6","name":"app","image":"https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256b.jpg","content":"detail","jumpPacke":"com.zf.butterfly.prank"},
-{"id":"7","name":"app","image":"https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256b.jpg","content":"detail","jumpPacke":"com.zf.butterfly.prank"},
-{"id":"8","name":"app","image":"https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256b.jpg","content":"detail","jumpPacke":"com.zf.butterfly.prank"},
-{"id":"9","name":"app","image":"https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256b.jpg","content":"detail","jumpPacke":"com.zf.butterfly.prank"},
-{"id":"10","name":"app","image":"https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256b.jpg","content":"detail","jumpPacke":"com.zf.butterfly.prank"}
-]
+{
+  "main_rec": {
+    "apps": [
+      {
+        "id": "1",
+        "name": "3dsada",
+        "image": "https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256b.jpg",
+        "content": "detail",
+        "jumpPacke": "com.zf.butterfly.prank"
+      },
+      {
+        "id": "2",
+        "name": "4344",
+        "image": "https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256b.jpg",
+        "content": "detail",
+        "jumpPacke": "com.zf.butterfly.prank"
+      }
+    ]
+  },
+  "exit_rec": {
+    "apps": [
+      {
+        "id": "1",
+        "name": "ButterFlyScreen",
+        "image": "https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256b.jpg",
+        "content": "detail",
+        "jumpPacke": "com.zf.butterfly.prank"
+      },
+      {
+        "id": "2",
+        "name": "ButterFlyScreen2",
+        "image": "https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256b.jpg",
+        "content": "detail",
+        "jumpPacke": "com.zf.butterfly.prank"
+      },
+      {
+        "id": "2",
+        "name": "ButterFlyScreen2",
+        "image": "https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256b.jpg",
+        "content": "detail",
+        "jumpPacke": "com.zf.butterfly.prank"
+      },
+      {
+        "id": "2",
+        "name": "ButterFlyScreen2",
+        "image": "https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256b.jpg",
+        "content": "detail",
+        "jumpPacke": "com.zf.butterfly.prank"
+      },
+      {
+        "id": "2",
+        "name": "ButterFlyScreen2",
+        "image": "https://raw.githubusercontent.com/MrHexiaohua/Music/master/app/src/main/res/raw/ad256b.jpg",
+        "content": "detail",
+        "jumpPacke": "com.zf.butterfly.prank"
+      }
+    ]
+  }
+}
