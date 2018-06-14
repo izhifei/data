@@ -4,9 +4,9 @@
             {
                 "id": "1", 
                 "name": "Fire Screen", 
-                "image": "https://raw.githubusercontent.com/izhifei/data/master/dongfire.jpg", 
+                "image": "https://raw.githubusercontent.com/izhifei/data/master/xisnake.jpg", 
                 "content": "detail", 
-                "jumpPacke": "com.dong.back.activity"
+                "jumpPacke": "com.zf.snake.prank"
             }
         ]
     }, 
@@ -15,9 +15,9 @@
             {
                 "id": "1", 
                 "name": "Snake Screen Prank", 
-                "image": "https://raw.githubusercontent.com/izhifei/data/master/xisnake.jpg", 
+                "image": "https://raw.githubusercontent.com/izhifei/data/master/xihudie.jpg", 
                 "content": "detail", 
-                "jumpPacke": "com.zf.snake.pranka"
+                "jumpPacke": "com.zf.butterfly.prank"
             },
             {
                 "id": "2", 
