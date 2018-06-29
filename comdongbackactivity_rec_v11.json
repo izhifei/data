@@ -10,7 +10,7 @@
             }
         ]
     }, 
-    "exit_rec": {
+    "exit_rect": {
         "apps": [
             {
                 "id": "1", 
