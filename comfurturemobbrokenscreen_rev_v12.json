@@ -1,1 +1,24 @@
-a
+{
+    "main_rec": {
+        "apps": [
+            {
+                "id": "1", 
+                "name": "Rolling Icon", 
+                "image": "https://raw.githubusercontent.com/izhifei/data/master/rolling.jpg", 
+                "content": "detail", 
+                "jumpPacke": "com.zf.rock.icon"
+            }
+        ]
+    }, 
+    "exit_rec": {
+        "apps": [
+            {
+                "id": "1", 
+                "name": "Rolling Icon", 
+                "image": "https://raw.githubusercontent.com/izhifei/data/master/rolling.jpg", 
+                "content": "detail", 
+                "jumpPacke": "com.zf.rock.icon"
+            }
+        ]
+    }
+}
