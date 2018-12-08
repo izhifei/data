@@ -6,7 +6,7 @@
                 "name": "Rolling Icon", 
                 "image": "https://raw.githubusercontent.com/izhifei/data/master/rolling.jpg", 
                 "content": "detail", 
-                "jumpPacke": "com.zf.rock.icon"
+                "jumpPacke": "com.emoji.rolling.icon.app.photo"
             }
         ]
     }, 
@@ -17,7 +17,7 @@
                 "name": "Rolling Icon", 
                 "image": "https://raw.githubusercontent.com/izhifei/data/master/rolling.jpg", 
                 "content": "detail", 
-                "jumpPacke": "com.zf.rock.icon"
+                "jumpPacke": "com.emoji.rolling.icon.app.photo"
             }
         ]
     }
